@@ -9,13 +9,13 @@ Strengths: incident response, SLOs & cost control, CI/CD, Kubernetes, Prometheus
 
 ---
 
-#### Flagship Projects (publishing now)
+#### Flagship Projects (currently in-progress)
 - **LLM Serving on AKS — vLLM** → autoscaling, p95 latency SLOs, throughput & cost dashboards  
-  👉 <link to `aks-llm-serving-vllm`>
+  👉 [aks-llm-serving-vllm](https://github.com/SimpsonRoss/aks-llm-serving-vllm)
 - **LLM Serving on AKS — NVIDIA Triton** → DCGM metrics, batching efficiency, vs vLLM comparison  
-  👉 <link to `aks-llm-serving-triton`>
+  👉 [aks-llm-serving-triton](https://github.com/SimpsonRoss/aks-llm-serving-triton)
 - **RAG Backend + Evaluations (FastAPI + pgvector)** → CI’d evals (faithfulness, latency, $/1k tokens)  
-  👉 <link to `rag-pgvector-evals`>
+  👉 [rag-pgvector-evals](https://github.com/SimpsonRoss/rag-pgvector-evals)
 
 ---
 
