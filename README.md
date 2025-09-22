@@ -25,3 +25,10 @@ Strengths: incident response, SLOs & cost control, CI/CD, Kubernetes, Prometheus
 - Shipping GenAI features (**Azure OpenAI**) and instrumenting them for reliability & cost
 - Managing global incidents/events, Agile coaching/facilitation and operational streamlining
 
+#### Tech Toolbox
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white)
