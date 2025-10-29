@@ -10,9 +10,9 @@ Ex-Spotify incident & technical operations lead (Spotify Wrapped season traffic 
 #### What I’m good at
 - Solving complex issues and incidents, looking through the noise and finding root causes and solutions
 - Understanding large scale systems, identifying gaps and removing inefficiencies
-- **Azure-first** platforms (AKS, Terraform, GitHub Actions, Azure Monitor/Prometheus/Grafana)  
-- Shipping GenAI features (**Azure OpenAI**) and instrumenting them for reliability & cost
-- Facilitating workshops, post-mortems and planning sessions -- driving change and getting buy-in from teams and leaders
+- Azure-first platforms (AKS, Terraform, GitHub Actions, Azure Monitor/Prometheus/Grafana)  
+- Shipping GenAI features (Azure OpenAI) and instrumenting them for reliability & cost
+- Facilitating workshops, post-mortems and planning sessions - driving change and getting buy-in from teams and leaders
 - Working with customers, providing support and troubleshooting on-the-fly, improving relations
 - Understanding new software, systems and languages quickly, finding and utilising libraries and AI tools for speed
 
